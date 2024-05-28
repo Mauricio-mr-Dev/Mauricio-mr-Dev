@@ -19,10 +19,6 @@ Mi enfoque en el aprendizaje continuo y mi excelente actitud me permiten enfrent
 - **React.js**
 - **Astro**
 
-### Backend
-- **Firebase**
-
-
 ## Contacto
 
 - **Email**: maurimr465@gmail.com
