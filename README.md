@@ -1,4 +1,4 @@
-## Hey, soy Mauricio Marin
+### Hey, soy Mauricio Marin
 
 ## Sobre mi
 
@@ -7,6 +7,21 @@ Me llamo Mauricio y llevo dos años inmerso en el mundo de la programación, esp
 Mi pasión por esta área me impulsa a seguir aprendiendo constantemente, buscando nuevos retos y superando obstáculos para mejorar mis habilidades. He participado en proyectos freelance y escolares, donde he sido el encargado de crear interfaces atractivas y funcionales.
 
 Mi enfoque en el aprendizaje continuo y mi excelente actitud me permiten enfrentar cada desafío con determinación y optimismo, convirtiendo cada obstáculo en una oportunidad para superarme a mí mismo.
+
+## Tecnologías
+
+### Frontend
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **TypeScript**
+- **React**
+- **Astro**
+
+### Backend
+- **Firebase**
+
 
 ## Contacto
 
