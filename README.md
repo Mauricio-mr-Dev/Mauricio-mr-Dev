@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, soy Mauricio Marin
 
-<!--
-**Mauricio-mr-Dev/Mauricio-mr-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+- Me llamo Mauricio y llevo dos años inmerso en el mundo de la programación, especialmente enfocado en el desarrollo frontend.
 
-Here are some ideas to get you started:
+Mi pasión por esta área me impulsa a seguir aprendiendo constantemente, buscando nuevos retos y superando obstáculos para mejorar mis habilidades. He participado en proyectos freelance y escolares, donde he sido el encargado de crear interfaces atractivas y funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi enfoque en el aprendizaje continuo y mi excelente actitud me permiten enfrentar cada desafío con determinación y optimismo, convirtiendo cada obstáculo en una oportunidad para superarme a mí mismo.
+
+# Habilidades y tecnologias
+-HTML, CSS, JS, REACT, FIREBASE, GIT
+
+## Contacto
+
+- **Email**: maurimr465@gmail.com
+- **LinkedIn**: www.linkedin.com/in/mauricio-marín-967a97265
+- **Portafolio**: https://porfolio-mauricio.netlify.app/
