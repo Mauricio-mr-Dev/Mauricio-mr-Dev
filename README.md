@@ -7,9 +7,6 @@ Mi pasión por esta área me impulsa a seguir aprendiendo constantemente, buscan
 
 Mi enfoque en el aprendizaje continuo y mi excelente actitud me permiten enfrentar cada desafío con determinación y optimismo, convirtiendo cada obstáculo en una oportunidad para superarme a mí mismo.
 
-# Habilidades y tecnologias
--HTML, CSS, JS, REACT, FIREBASE, GIT
-
 ## Contacto
 
 - **Email**: maurimr465@gmail.com
