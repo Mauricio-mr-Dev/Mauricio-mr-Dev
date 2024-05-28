@@ -1,7 +1,8 @@
 ## Hey, soy Mauricio Marin
 
 ## Sobre mi
-- Me llamo Mauricio y llevo dos años inmerso en el mundo de la programación, especialmente enfocado en el desarrollo frontend.
+
+Me llamo Mauricio y llevo dos años inmerso en el mundo de la programación, especialmente enfocado en el desarrollo frontend.
 
 Mi pasión por esta área me impulsa a seguir aprendiendo constantemente, buscando nuevos retos y superando obstáculos para mejorar mis habilidades. He participado en proyectos freelance y escolares, donde he sido el encargado de crear interfaces atractivas y funcionales.
 
