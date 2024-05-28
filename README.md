@@ -1,4 +1,4 @@
-### Hey, soy Mauricio Marin
+## Hey, soy Mauricio Marin
 
 ## Sobre mi
 
@@ -16,7 +16,7 @@ Mi enfoque en el aprendizaje continuo y mi excelente actitud me permiten enfrent
 - **CSS**
 - **JavaScript**
 - **TypeScript**
-- **React**
+- **React.js**
 - **Astro**
 
 ### Backend
