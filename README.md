@@ -22,5 +22,5 @@ Mi enfoque en el aprendizaje continuo y mi excelente actitud me permiten enfrent
 ## Contacto
 
 - **Email**: maurimr465@gmail.com
-- **LinkedIn**: www.linkedin.com/in/mauricio-marín-967a97265
+- **LinkedIn**: www.linkedin.com/in/mauricio-marin-dev
 - **Portafolio**: https://porfolio-mauricio.netlify.app/
