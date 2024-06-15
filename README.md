@@ -2,22 +2,24 @@
 
 ## Sobre mi
 
-Me llamo Mauricio y llevo dos años inmerso en el mundo de la programación, especialmente enfocado en el desarrollo frontend.
+¡Hola a todos! Me llamo Mauricio y desde que era un niño he estado intrigado por el mundo de la informática. Hace unos dos años, decidí sumergirme en el desarrollo de software, especialmente enfocado en el diseño y la programación del frontend de aplicaciones y sitios web.
 
-Mi pasión por esta área me impulsa a seguir aprendiendo constantemente, buscando nuevos retos y superando obstáculos para mejorar mis habilidades. He participado en proyectos freelance y escolares, donde he sido el encargado de crear interfaces atractivas y funcionales.
+Durante este tiempo, me he embarcado en un emocionante viaje de aprendizaje autodidacta. Todos los días me despierto con la motivación de mejorar mis habilidades y conocimientos, explorando nuevas tecnologías y técnicas para seguir evolucionando en mi carrera.
 
-Mi enfoque en el aprendizaje continuo y mi excelente actitud me permiten enfrentar cada desafío con determinación y optimismo, convirtiendo cada obstáculo en una oportunidad para superarme a mí mismo.
+Una de mis características más destacadas es mi actitud positiva y mi entusiasmo por colaborar con otros. Creo firmemente en el poder del trabajo en equipo para alcanzar metas más grandes y mejores resultados. Siempre estoy abierto a nuevas ideas y perspectivas, y disfruto del proceso de aprender y crecer junto a mis colegas y compañeros de equipo.
 
 ## Tecnologías
 
-### Frontend
-
 - **HTML**
 - **CSS**
+- **Tailwind CSS**
 - **JavaScript**
 - **TypeScript**
 - **React.js**
 - **Astro**
+- **Firebase**
+- **Netlify**
+- **Git**
 
 ## Contacto
 
