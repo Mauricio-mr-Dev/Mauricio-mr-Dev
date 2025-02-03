@@ -16,6 +16,7 @@ Una de mis características más destacadas es mi actitud positiva y mi entusias
 - **JavaScript**
 - **TypeScript**
 - **React.js**
+- **Next.js**
 - **Astro**
 - **Firebase**
 - **Netlify**
