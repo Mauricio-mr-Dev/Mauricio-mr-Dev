@@ -48,10 +48,6 @@
 </a>
          <a href="https://github.com/Mauricio-mr-Dev" title="Go to Source"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
       </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"></a>
-    </p>       
 </td>
 <td width="30%" align="center">
     <p align="center">
@@ -61,7 +57,7 @@
       </p>
     <p align="center">
        <a href="https://github.com/Mauricio-mr-Dev" title="Go to Source">
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/Mauricio-mr-Dev?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   <td width="30%" align="center">
@@ -72,7 +68,7 @@
       </p>
     <p align="center">
          <a href="https://github.com/Mauricio-mr-Dev" title="Go to Source  target="blank"">
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/Mauricio-mr-Dev?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td> 
 </td>
